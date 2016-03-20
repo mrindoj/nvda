@@ -259,6 +259,9 @@ TABLES = (
 	("Se-Se-g1.utb", _("Swedish grade 1"), False),
 	# Translators: The name of a braille table displayed in the
 	# braille settings dialog.
+	("Se-Se.ctb", _("Swedish 8 Dot Computer Braille"), True),
+	# Translators: The name of a braille table displayed in the
+	# braille settings dialog.
 	("sk-sk-g1.utb", _("Slovak grade 1"), False),
 	# Translators: The name of a braille table displayed in the
 	# braille settings dialog.
